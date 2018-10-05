@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="light_it_task_2:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="light_it_task_2.jar">
+      <element id="module-output" name="light_it_task_2" />
+    </root>
+  </artifact>
+</component>
